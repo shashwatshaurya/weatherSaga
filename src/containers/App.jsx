@@ -4,7 +4,7 @@ import store from '../redux/store';
 import Form from '../compoents/Form';
 import Card from '../compoents/Card';
 
-class H1 extends Component{
+class App extends Component{
     // constructor(props){
     //     super(props);
     // };
@@ -21,4 +21,4 @@ class H1 extends Component{
     }
 }
 
-export default H1;
+export default App;
